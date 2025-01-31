@@ -21,6 +21,6 @@ app.get('/', (req, res) => {
 	})
 })
 
-app.listen(PORT, () => {
+app.listen(8000, () => {
 	console.log(`Port running on Port 8000`)
 })
